@@ -155,7 +155,10 @@ plt.axis("off")
 plt.tight_layout()
 plt.show()
 ```
-
+---
+## Developed by:
+### NAME : SIVANTH T
+### REGISTER NO : 212225240150
 ---
 
 ## Output
